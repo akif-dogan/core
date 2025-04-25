@@ -7,8 +7,8 @@ import (
 	"strings"
 	"time"
 
-	"go.sia.tech/core/internal/smux"
-	"go.sia.tech/core/types"
+	"go.thebigfile.com/core/internal/smux"
+	"go.thebigfile.com/core/types"
 	"go.sia.tech/mux"
 	"lukechampine.com/frand"
 )

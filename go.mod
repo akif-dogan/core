@@ -1,4 +1,4 @@
-module go.sia.tech/core // v0.11.0
+module go.thebigfile.com/core // v0.0.1
 
 go 1.23.1
 

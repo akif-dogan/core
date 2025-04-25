@@ -7,8 +7,8 @@ import (
 	"math/bits"
 	"time"
 
-	"go.sia.tech/core/internal/blake2b"
-	"go.sia.tech/core/types"
+	"go.thebigfile.com/core/internal/blake2b"
+	"go.thebigfile.com/core/types"
 )
 
 func validateHeader(s State, parentID types.BlockID, timestamp time.Time, nonce uint64, id types.BlockID) error {

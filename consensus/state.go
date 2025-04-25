@@ -10,8 +10,8 @@ import (
 	"sync"
 	"time"
 
-	"go.sia.tech/core/internal/blake2b"
-	"go.sia.tech/core/types"
+	"go.thebigfile.com/core/internal/blake2b"
+	"go.thebigfile.com/core/types"
 )
 
 // Pool for reducing heap allocations when hashing. This is only necessary
