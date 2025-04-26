@@ -1,4 +1,4 @@
-name: Add issues and PRs to Sia project
+name: Add issues and PRs to BigFile project
 
 on:
   issues:
